@@ -32,7 +32,7 @@ Clerk, Inngest
 Arcjet, Vercel  
 
 **Dev Tools:**  
-TypeScript, Git/GitHub, VS Code, Postman
+Git/GitHub, VS Code, Postman, Docker
 
 ---
 
@@ -40,8 +40,8 @@ TypeScript, Git/GitHub, VS Code, Postman
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ai-finance-platform.git
-   cd ai-finance-platform
+   https://github.com/ShubhamChandratre/wealth-insight.git
+   cd wealth-insight
 
 2. **Installing Dependencies
     ```bash
