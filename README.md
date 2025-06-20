@@ -45,7 +45,7 @@ Git/GitHub, VS Code, Postman, Docker
 
 2. **Installing Dependencies
     ```bash
-    npm install
+    npm install --legacy-peer-deps
 
 3. Create a .env file and configure environment variables for Supabase, Clerk, Inngest, and Arcjet.
 
