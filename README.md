@@ -40,7 +40,7 @@ Git/GitHub, VS Code, Postman, Docker
 
 1. **Clone the repository**  
    ```bash
-   https://github.com/ShubhamChandratre/wealth-insight.git
+   git clone https://github.com/ShubhamChandratre/wealth-insight.git
    cd wealth-insight
 
 2. **Installing Dependencies
